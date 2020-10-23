@@ -1,0 +1,6 @@
+<menu id="ContextMenu">
+    <menu-item id="ctx_menu_item_inc" label="@Strings.ctx_menu_label_inc" />
+    <menu-item id="ctx_menu_item_dec" label="@Strings.ctx_menu_label_dec" />
+    <menu-item id="ctx_menu_item_status" label="@Strings.ctx_menu_label_status" />
+    <menu-item id="ctx_menu_item_info" label="@Strings.ctx_menu_label_info" />
+</menu>

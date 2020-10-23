@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label x="50%" y="20%" text="@Strings.mainheader" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" />
+    <label x="50%" y="80%" text="@Strings.mainfooter" font="Graphics.FONT_TINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER" />
+</layout>

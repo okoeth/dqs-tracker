@@ -1,0 +1,6 @@
+<menu id="MainMenu">
+    <menu-item id="main_menu_item_hq" label="@Strings.main_menu_label_hq" />
+    <menu-item id="main_menu_item_lq" label="@Strings.main_menu_label_lq" />
+    <menu-item id="main_menu_item_alc" label="@Strings.main_menu_label_alc" />
+    <menu-item id="main_menu_item_reset" label="@Strings.main_menu_label_reset" />
+</menu>

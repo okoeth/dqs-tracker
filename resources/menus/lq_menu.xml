@@ -1,0 +1,8 @@
+<menu id="LowQualityMenu">
+    <menu-item id="lq_menu_item_1" label="@Strings.lq_menu_label_1" />
+    <menu-item id="lq_menu_item_2" label="@Strings.lq_menu_label_2" />
+    <menu-item id="lq_menu_item_3" label="@Strings.lq_menu_label_3" />
+    <menu-item id="lq_menu_item_4" label="@Strings.lq_menu_label_4" />
+    <menu-item id="lq_menu_item_5" label="@Strings.lq_menu_label_5" />
+    <menu-item id="lq_menu_item_6" label="@Strings.lq_menu_label_6" />
+</menu>

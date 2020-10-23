@@ -1,0 +1,42 @@
+<strings>
+    <string id="AppName">DQS Tracker</string>
+
+    <string id="mainheader">Your DQS today:</string>
+    <string id="dqsmock">17</string>
+    <string id="mainfooter">Target: 21</string>
+
+    <string id="addheader">You added:</string>
+    <string id="addmock">+2</string>
+
+    <string id="main_menu_label_hq">High Quality</string>
+    <string id="main_menu_label_lq">Low Quality</string>
+    <string id="main_menu_label_alc">Alcohol</string>
+    <string id="main_menu_label_reset">Reset</string>
+
+    <string id="hq_menu_label_1">Vegetables</string>
+    <string id="hq_menu_label_2">Fruit</string>
+    <string id="hq_menu_label_3">Nuts</string>
+    <string id="hq_menu_label_4">Whole Grains</string>
+    <string id="hq_menu_label_5">HQ Meat/Fish</string>
+    <string id="hq_menu_label_6">HQ Drinks</string>
+    <string id="hq_menu_label_7">HQ Processed</string>
+    
+    <string id="lq_menu_label_1">Refined Grains</string>
+    <string id="lq_menu_label_2">Sweets</string>
+    <string id="lq_menu_label_3">Fried</string>
+    <string id="lq_menu_label_4">LQ Meat</string>
+    <string id="lq_menu_label_5">LQ Beverages</string>
+    <string id="lq_menu_label_6">LQ Processed</string>
+    
+    <string id="alc_menu_label_1">Small Beer</string>
+    <string id="alc_menu_label_2">Large Beer</string>
+    <string id="alc_menu_label_3">Small Wine</string>
+    <string id="alc_menu_label_4">Large Wine</string>
+    <string id="alc_menu_label_5">Cocktail</string>   
+    
+    <string id="ctx_menu_label_inc">Increment</string>
+    <string id="ctx_menu_label_dec">Decrement</string>
+    <string id="ctx_menu_label_status">Status</string>
+    <string id="ctx_menu_label_info">Info</string>
+     
+</strings>
