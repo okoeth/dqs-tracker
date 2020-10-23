@@ -25,10 +25,12 @@ class dqstrackerHqMenuDelegate extends WatchUi.MenuInputDelegate {
         } else if (item == :hq_menu_item_4) {
         	increment(:whole_grains);
         } else if (item == :hq_menu_item_5) {
-        	increment(:hq_meat);
+        	increment(:dairy);
         } else if (item == :hq_menu_item_6) {
-        	increment(:hq_drinks);
+        	increment(:hq_meat);
         } else if (item == :hq_menu_item_7) {
+        	increment(:hq_drinks);
+        } else if (item == :hq_menu_item_8) {
         	increment(:hq_processed);
         }
     }

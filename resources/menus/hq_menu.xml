@@ -6,4 +6,5 @@
     <menu-item id="hq_menu_item_5" label="@Strings.hq_menu_label_5" />
     <menu-item id="hq_menu_item_6" label="@Strings.hq_menu_label_6" />
     <menu-item id="hq_menu_item_7" label="@Strings.hq_menu_label_7" />
+    <menu-item id="hq_menu_item_8" label="@Strings.hq_menu_label_8" />
 </menu>
