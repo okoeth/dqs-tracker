@@ -9,6 +9,8 @@ class dqstrackerApp extends Application.AppBase {
 
     // onStart() is called on application start up
     function onStart(state) {
+    	// Initialise date
+    	setDateToday();
     }
 
     // onStop() is called when your application is exiting
